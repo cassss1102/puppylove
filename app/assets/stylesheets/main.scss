@@ -1,0 +1,29 @@
+body {
+  background: url(https://images.unsplash.com/photo-1473626532202-4232169ef630?dpr=2&auto=format&fit=crop&w=1199&h=781&q=80&cs=tinysrgb&crop=);
+  background-size: cover;
+  /*background-position: center;*/
+  font-family: 'Fugaz One', cursive;
+
+}
+html {
+  height: 100%;
+}
+
+#content {
+  text-align: center;
+  padding-top: 25%;
+  color: white;
+  text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+              0px 8px 13px rgba(0,0,0,0.1),
+              0px 18px 23px rgba(0,0,0,0.1);
+}
+
+h1 {
+  font-size: 3em;
+}
+
+hr {
+  border-top: 1px solid #f8f8f8;
+  border-bottom: 1px solid rgba(0,0,0,0.2);
+  width: 400px;
+}
